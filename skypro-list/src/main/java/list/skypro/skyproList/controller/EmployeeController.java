@@ -38,10 +38,5 @@ public class EmployeeController {
     public List<Employee> getEmployeesList() {
         return employeeService.getEmployeesList();
     }
-
-    @ExceptionHandler(RuntimeException.class)
-    public String exceptionHandler(RuntimeException e) {
-        return e.getMessage();
-    }
 }
 
