@@ -1,9 +1,10 @@
-package hm.skypro.SkyproListSet.service;
+package list.skypro.skyproList.service;
 
-import hm.skypro.SkyproListSet.domain.Employee;
-import hm.skypro.SkyproListSet.exception.EmployeeAlreadyAddedException;
-import hm.skypro.SkyproListSet.exception.EmployeeNotFoundException;
-import hm.skypro.SkyproListSet.exception.EmployeeStorageIsFullException;
+import list.skypro.skyproList.domain.Employee;
+import list.skypro.skyproList.exception.EmployeeAlreadyAddedException;
+import list.skypro.skyproList.exception.EmployeeNotFoundException;
+import list.skypro.skyproList.exception.EmployeeStorageIsFullException;
+import list.skypro.skyproList.domain.Employee;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

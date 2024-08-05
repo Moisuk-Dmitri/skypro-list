@@ -1,6 +1,7 @@
-package hm.skypro.SkyproListSet.service;
+package list.skypro.skyproList.service;
 
-import hm.skypro.SkyproListSet.domain.Employee;
+import list.skypro.skyproList.domain.Employee;
+import list.skypro.skyproList.domain.Employee;
 
 import java.util.List;
 

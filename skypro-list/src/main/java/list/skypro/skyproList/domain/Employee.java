@@ -1,4 +1,4 @@
-package hm.skypro.SkyproListSet.domain;
+package list.skypro.skyproList.domain;
 
 import java.util.Objects;
 

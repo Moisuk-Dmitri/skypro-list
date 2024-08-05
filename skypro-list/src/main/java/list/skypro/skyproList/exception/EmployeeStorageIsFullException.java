@@ -1,4 +1,4 @@
-package hm.skypro.SkyproListSet.exception;
+package list.skypro.skyproList.exception;
 
 public class EmployeeStorageIsFullException extends RuntimeException {
     public EmployeeStorageIsFullException(String message) {

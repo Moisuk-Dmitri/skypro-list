@@ -1,7 +1,7 @@
-package hm.skypro.SkyproListSet.controller;
+package list.skypro.skyproList.controller;
 
-import hm.skypro.SkyproListSet.domain.Employee;
-import hm.skypro.SkyproListSet.service.EmployeeService;
+import list.skypro.skyproList.domain.Employee;
+import list.skypro.skyproList.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
